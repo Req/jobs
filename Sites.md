@@ -11,3 +11,4 @@ These are ranked by their amount of search results when looking for "javascript"
 - ----- https://www.get-in-it.de/jobsuche
 - ----- https://www.iamexpat.de/career/jobs-germany/all-regions/it-technology
 - ----- https://www.tech-careers.de/
+- ----- https://weworkremotely.com/
